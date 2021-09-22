@@ -1,0 +1,28 @@
+.footer {
+  display: flex;
+  justify-content: center;
+  background: #1B1B1B;
+  padding: 37px 0;
+}
+
+.social {
+  display: flex;
+  align-items: center;
+}
+
+.socialLink:last-of-type {
+  margin-left: 44px;
+}
+
+@media screen and (max-width: 425px) {
+  .footer {
+    padding: 20px 0;
+  }
+  .socialLink {
+    max-width: 25px;
+  }
+
+  .socialLink:last-of-type {
+    margin-left: 20px;
+  }
+}

@@ -1,0 +1,31 @@
+.section {
+  color: #fff;
+  font-family: Arial, sans-serif;
+  margin-bottom: 52px;
+}
+
+.sectionTitle {
+  font-weight: 700;
+  font-size: 21px;
+  margin-bottom: 25px;
+}
+
+.faqItem {
+  margin-bottom: 26px;
+}
+
+.title {
+  font-weight: 700;
+  font-size: 16px;
+  margin-bottom: 7px;
+}
+
+.text {
+  font-weight: 400;
+  font-size: 16px;
+}
+
+.text a {
+  color: #E8963E;
+  font-weight: 400;
+}
