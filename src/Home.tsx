@@ -167,14 +167,6 @@ const Home = (props: HomeProps) => {
 
   return (
     <main>
-      {wallet.connected && (
-        <p>Address: {shortenAddress(wallet.publicKey?.toBase58() || "")}</p>
-      )}
-
-      {wallet.connected && (
-        <p>Balance: {(balance || 0).toLocaleString()} SOL</p>
-      )}
-
       <MintContainer>
         {!wallet.connected ? (
           <ConnectButton className={styles.connectButton}>
@@ -211,6 +203,13 @@ const Home = (props: HomeProps) => {
           </MintButton>
         )}
       </MintContainer>
+      {wallet.connected && (
+        <p className={styles.highlightedText}>Address: {shortenAddress(wallet.publicKey?.toBase58() || "")}</p>
+      )}
+
+      {wallet.connected && (
+        <p className={styles.highlightedText}>Balance: {(balance || 0).toLocaleString()} SOL</p>
+      )}
 
       <Snackbar
         open={alertState.open}
@@ -218,6 +217,7 @@ const Home = (props: HomeProps) => {
         onClose={() => setAlertState({ ...alertState, open: false })}
       >
         <Alert
+          className={styles.notifications}
           onClose={() => setAlertState({ ...alertState, open: false })}
           severity={alertState.severity}
         >

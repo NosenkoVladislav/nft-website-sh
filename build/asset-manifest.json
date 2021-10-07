@@ -1,27 +1,27 @@
 {
   "files": {
-    "main.css": "/static/css/main.30663955.chunk.css",
-    "main.js": "/static/js/main.866370a1.chunk.js",
-    "main.js.map": "/static/js/main.866370a1.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.18abd0b9.js",
-    "runtime-main.js.map": "/static/js/runtime-main.18abd0b9.js.map",
-    "static/js/2.74298a61.chunk.js": "/static/js/2.74298a61.chunk.js",
-    "static/js/2.74298a61.chunk.js.map": "/static/js/2.74298a61.chunk.js.map",
-    "static/js/3.40f68d74.chunk.js": "/static/js/3.40f68d74.chunk.js",
-    "static/js/3.40f68d74.chunk.js.map": "/static/js/3.40f68d74.chunk.js.map",
-    "index.html": "/index.html",
-    "static/css/main.30663955.chunk.css.map": "/static/css/main.30663955.chunk.css.map",
-    "static/js/2.74298a61.chunk.js.LICENSE.txt": "/static/js/2.74298a61.chunk.js.LICENSE.txt",
-    "static/media/discord.78109fd2.svg": "/static/media/discord.78109fd2.svg",
-    "static/media/play.48bfad19.svg": "/static/media/play.48bfad19.svg",
-    "static/media/player-frame.de3704bc.png": "/static/media/player-frame.de3704bc.png",
-    "static/media/sol-hub-logo.121d01c9.svg": "/static/media/sol-hub-logo.121d01c9.svg",
-    "static/media/twitter.b9febec8.svg": "/static/media/twitter.b9febec8.svg"
+    "main.css": "/NosenkoVladislav/nft-website-sh/static/css/main.62ad3103.chunk.css",
+    "main.js": "/NosenkoVladislav/nft-website-sh/static/js/main.df22fc1a.chunk.js",
+    "main.js.map": "/NosenkoVladislav/nft-website-sh/static/js/main.df22fc1a.chunk.js.map",
+    "runtime-main.js": "/NosenkoVladislav/nft-website-sh/static/js/runtime-main.78dcbe61.js",
+    "runtime-main.js.map": "/NosenkoVladislav/nft-website-sh/static/js/runtime-main.78dcbe61.js.map",
+    "static/js/2.c33ad46c.chunk.js": "/NosenkoVladislav/nft-website-sh/static/js/2.c33ad46c.chunk.js",
+    "static/js/2.c33ad46c.chunk.js.map": "/NosenkoVladislav/nft-website-sh/static/js/2.c33ad46c.chunk.js.map",
+    "static/js/3.40f68d74.chunk.js": "/NosenkoVladislav/nft-website-sh/static/js/3.40f68d74.chunk.js",
+    "static/js/3.40f68d74.chunk.js.map": "/NosenkoVladislav/nft-website-sh/static/js/3.40f68d74.chunk.js.map",
+    "index.html": "/NosenkoVladislav/nft-website-sh/index.html",
+    "static/css/main.62ad3103.chunk.css.map": "/NosenkoVladislav/nft-website-sh/static/css/main.62ad3103.chunk.css.map",
+    "static/js/2.c33ad46c.chunk.js.LICENSE.txt": "/NosenkoVladislav/nft-website-sh/static/js/2.c33ad46c.chunk.js.LICENSE.txt",
+    "static/media/discord.78109fd2.svg": "/NosenkoVladislav/nft-website-sh/static/media/discord.78109fd2.svg",
+    "static/media/play.48bfad19.svg": "/NosenkoVladislav/nft-website-sh/static/media/play.48bfad19.svg",
+    "static/media/player-frame.de3704bc.png": "/NosenkoVladislav/nft-website-sh/static/media/player-frame.de3704bc.png",
+    "static/media/sol-hub-logo.121d01c9.svg": "/NosenkoVladislav/nft-website-sh/static/media/sol-hub-logo.121d01c9.svg",
+    "static/media/twitter.b9febec8.svg": "/NosenkoVladislav/nft-website-sh/static/media/twitter.b9febec8.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.18abd0b9.js",
-    "static/js/2.74298a61.chunk.js",
-    "static/css/main.30663955.chunk.css",
-    "static/js/main.866370a1.chunk.js"
+    "static/js/runtime-main.78dcbe61.js",
+    "static/js/2.c33ad46c.chunk.js",
+    "static/css/main.62ad3103.chunk.css",
+    "static/js/main.df22fc1a.chunk.js"
   ]
 }

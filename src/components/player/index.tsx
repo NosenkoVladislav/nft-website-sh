@@ -12,6 +12,7 @@ const Player = () => {
       <div className={styles.wallet}>
         <Wallet/>
       </div>
+      <div>!!!!TEST!!!!</div>
       <img src={player} alt="Player" className={styles.playerImage}/>
     </div>
   )

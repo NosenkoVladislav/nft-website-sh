@@ -22,6 +22,7 @@
   padding: 15px 35px !important;
   border-radius: 10px !important;
   position: relative;
+  min-width: 236px !important;
 }
 
 .connectButton:after {
@@ -35,4 +36,15 @@
   z-index: -1;
   border-radius: 10px;
   filter: blur(10%);
+}
+
+.highlightedText {
+  color: #E8963E;
+}
+
+.notifications {
+  width: 100%;
+  /*position: fixed !important;*/
+  /*bottom: 50px !important;*/
+  /*top: unset !important;*/
 }
