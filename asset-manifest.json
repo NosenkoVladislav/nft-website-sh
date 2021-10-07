@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/nft-website-sh/static/css/main.62ad3103.chunk.css",
-    "main.js": "/nft-website-sh/static/js/main.0f1b5828.chunk.js",
-    "main.js.map": "/nft-website-sh/static/js/main.0f1b5828.chunk.js.map",
+    "main.js": "/nft-website-sh/static/js/main.ebee2b36.chunk.js",
+    "main.js.map": "/nft-website-sh/static/js/main.ebee2b36.chunk.js.map",
     "runtime-main.js": "/nft-website-sh/static/js/runtime-main.0c9ab563.js",
     "runtime-main.js.map": "/nft-website-sh/static/js/runtime-main.0c9ab563.js.map",
-    "static/js/2.385908f4.chunk.js": "/nft-website-sh/static/js/2.385908f4.chunk.js",
-    "static/js/2.385908f4.chunk.js.map": "/nft-website-sh/static/js/2.385908f4.chunk.js.map",
+    "static/js/2.ee564675.chunk.js": "/nft-website-sh/static/js/2.ee564675.chunk.js",
+    "static/js/2.ee564675.chunk.js.map": "/nft-website-sh/static/js/2.ee564675.chunk.js.map",
     "static/js/3.40f68d74.chunk.js": "/nft-website-sh/static/js/3.40f68d74.chunk.js",
     "static/js/3.40f68d74.chunk.js.map": "/nft-website-sh/static/js/3.40f68d74.chunk.js.map",
     "index.html": "/nft-website-sh/index.html",
     "static/css/main.62ad3103.chunk.css.map": "/nft-website-sh/static/css/main.62ad3103.chunk.css.map",
-    "static/js/2.385908f4.chunk.js.LICENSE.txt": "/nft-website-sh/static/js/2.385908f4.chunk.js.LICENSE.txt",
+    "static/js/2.ee564675.chunk.js.LICENSE.txt": "/nft-website-sh/static/js/2.ee564675.chunk.js.LICENSE.txt",
     "static/media/discord.78109fd2.svg": "/nft-website-sh/static/media/discord.78109fd2.svg",
     "static/media/play.48bfad19.svg": "/nft-website-sh/static/media/play.48bfad19.svg",
     "static/media/player-frame.de3704bc.png": "/nft-website-sh/static/media/player-frame.de3704bc.png",
@@ -20,8 +20,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.0c9ab563.js",
-    "static/js/2.385908f4.chunk.js",
+    "static/js/2.ee564675.chunk.js",
     "static/css/main.62ad3103.chunk.css",
-    "static/js/main.0f1b5828.chunk.js"
+    "static/js/main.ebee2b36.chunk.js"
   ]
 }
